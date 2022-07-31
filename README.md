@@ -1,4 +1,4 @@
-# Recipes
+# [Recipes](https://suasuasuasuasua.github.io/odin-recipes/)
 
 First of many Odin Project projects.
 
